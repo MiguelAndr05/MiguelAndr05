@@ -10,25 +10,24 @@ Im most comfortable with Java,HTML and CSS but i know C#,C++, and JS
 
 # Languages & Tools :
 <br>
-<div class="center">
+<p style="align: Center
   
 <br>
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/ad6061db-8ebc-4f4c-ac76-538584538604" 
-alt="CSS"  width="170" hight="50">
-<img style="box-shadow: 1px 2px 3px red; border-radius: 1em;" 
-src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/57ce7a89-2c2a-4555-97bf-82dd24ff23ed" 
-alt="HTML"  width="170">
+alt="CSS"  style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/57ce7a89-2c2a-4555-97bf-82dd24ff23ed" 
+alt="HTML" style="vertical-align:top margin:6px 4px">
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/20c83300-25cb-455b-9f34-4f3c2eb450ee" 
-alt="Java"  width="170">
+alt="Java" style="vertical-align:top margin:6px 4px">
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/9442e2ec-6d98-4395-8da7-f6b22fcf5e8b" 
-alt="C#/.net" width="170">
+alt="C#/.net" style="vertical-align:top margin:6px 4px">
 <br>
 <br>
 
-</div>
+</p>
 
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAndr05&show_icons=true&theme=radical)
+</p>
