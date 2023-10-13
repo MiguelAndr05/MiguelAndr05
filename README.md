@@ -11,7 +11,7 @@ Im most comfortable with Java,HTML and CSS but i know C#,C++, and JS
 # Languages & Tools :
 <br>
 <p align="center">
-
+<br>
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/ad6061db-8ebc-4f4c-ac76-538584538604" alt="CSS"  width="170">
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/57ce7a89-2c2a-4555-97bf-82dd24ff23ed" alt="HTML"  width="170">
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/20c83300-25cb-455b-9f34-4f3c2eb450ee" alt="Java"  width="170">
