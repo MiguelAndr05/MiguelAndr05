@@ -12,10 +12,10 @@ Im most comfortable with Java,HTML and CSS but i know C#,C++, and JS
 <br>
 <p align="center">
 
-<img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/ad6061db-8ebc-4f4c-ac76-538584538604" alt="CSS" 
-<img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/57ce7a89-2c2a-4555-97bf-82dd24ff23ed" alt="HTML" 
-<img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/20c83300-25cb-455b-9f34-4f3c2eb450ee" alt="Java" 
-<img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/9442e2ec-6d98-4395-8da7-f6b22fcf5e8b" alt="C#/.net" 
+<img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/ad6061db-8ebc-4f4c-ac76-538584538604" alt="CSS" >
+<img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/57ce7a89-2c2a-4555-97bf-82dd24ff23ed" alt="HTML" >
+<img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/20c83300-25cb-455b-9f34-4f3c2eb450ee" alt="Java" >
+<img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/9442e2ec-6d98-4395-8da7-f6b22fcf5e8b" alt="C#/.net">
 <br>
 <br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/intellij.png" alt="Intellij" width="240" height="50">
