@@ -25,7 +25,7 @@ alt="C#/.net" width="250" style="vertical-align:top margin:6px 4px">
 
 </p>
 
-br
-#
+
+##Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=MiguelAndr05&show_icons=true&theme=radical" alt="stats" align="Center" >
 
