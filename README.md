@@ -2,8 +2,8 @@
 <div>
 Im Miguel, Im 17
 Im a programmer with a passion for helping others <br>
-Im Currently Studying CS at Georgian Colege X LakeHead University 
-Im most comfortable with Java,HTML and CSS but i know C#,C++, and JS
+Im Currently Studying CS at Georgian Colege X LakeHead University <br>
+Im most comfortable with Java, HTML and CSS but i know C#, C++, and JS
 </div>
 
 
@@ -26,6 +26,6 @@ alt="C#/.net" width="250" style="vertical-align:top margin:6px 4px">
 </p>
 
 
-##Stats :
+
 <img src="https://github-readme-stats.vercel.app/api?username=MiguelAndr05&show_icons=true&theme=radical" alt="stats" align="Center" >
 
