@@ -1,4 +1,4 @@
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://git.io/typing-svg">
@@ -19,24 +19,24 @@
 <p align="center">
 <br>
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/ee9c84f3-7f90-4017-bd16-1861acd727ea" 
-alt="CSS" width="190" >
+alt="CSS">
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/57ce7a89-2c2a-4555-97bf-82dd24ff23ed" 
-alt="HTML" width="200" >
+alt="HTML">
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/20c83300-25cb-455b-9f34-4f3c2eb450ee" 
-alt="Java" width="182" >
+alt="Java">
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/9442e2ec-6d98-4395-8da7-f6b22fcf5e8b" 
-alt="C#/.net" width="250" >
+alt="C#/.net">
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/40f7075f-2b7a-4874-998d-fc2526270be6" 
-alt="React" width="199">
+alt="React">
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/8416964f-d245-41bc-9749-67760b2b383c" 
-alt="Python" width="240" >
+alt="Python">
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/4ead5121-583b-495c-9106-c4a5767b113d" 
-alt="PHP" width="200" style="vertical-align:top margin:6px 4px">
+alt="PHP"  style="vertical-align:top margin:6px 4px">
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/805988be-22c2-423f-a23b-30a50e2d69f9" 
-alt="JS" width="270" >
+alt="JS" >
 </p>
 <br> <br>
-<p align="Center" width="200">
+<p align="Center" >
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/dd324624-4ace-4b46-98e5-e7b82a1d4c90" >
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/70a0f43c-10cc-43a7-9b53-bce77806212c" >
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/8cf781e4-aeb4-446e-a666-c6920106ce3b" >
