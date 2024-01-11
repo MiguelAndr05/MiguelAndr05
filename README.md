@@ -2,11 +2,9 @@
   <tr>
     <td>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=+Hi,+im+Miguel" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com/?lines=+Hi,+i'm+Miguel" alt="Typing SVG">
       </a> <br>
-      Im 18 living out of canada.<br>
-      Im a Programmer with a passion for Learning and helping others <br>
-      Im Currently Studying CS at Georgian Colege X LakeHead University <br>
+     I am an 18-year-old Computer Science student currently <br> residing in Canada. I am deeply passionate about programming,<br> continuous learning, and assisting others<br>Currently, I am pursuing my degree in Computer Science <br> at Georgian College in partnership with Lakehead University.
     </td>
     <td align="center">
       <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/fcafb30a-e2ed-4b7c-90e8-7dae6255d2f5" alt="Asta" width="200">
@@ -37,11 +35,10 @@ alt="JS" >
 </p>
 <br> <br>
 <p align="Center" >
+<img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/01411729-199b-4cd2-9857-320375a188dd"  >
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/dd324624-4ace-4b46-98e5-e7b82a1d4c90" >
-<img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/70a0f43c-10cc-43a7-9b53-bce77806212c" >
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/8cf781e4-aeb4-446e-a666-c6920106ce3b" >
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/ee68f918-6e12-45ab-8b12-76c067b4c13c" >
-<img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/01411729-199b-4cd2-9857-320375a188dd"  >
 </p>
 
 ## Socials 
@@ -61,5 +58,5 @@ alt="Discord" width="85" style="margin: 0px 20px;">
 </a>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelAndr05&show_icons=true&theme=radical" alt="stats" style="margin-top:25;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelAndr05&show_icons=true&theme=radical" alt="stats" style="margin-top:15;">
 </div>
