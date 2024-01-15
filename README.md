@@ -48,7 +48,7 @@ alt="JS" >
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/85a4aa0f-529e-44ab-995b-f655b5c77b57" 
 alt="Twitter" width="85"  style="margin: 0px 20px;">   
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/miguel-andrade-767b7b225/">
 <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/4b92aba2-2086-4188-8b43-2b4c09671b1f" 
 alt="Linkib" width="85"  style="margin: 0px 20px;">   
 </a>
