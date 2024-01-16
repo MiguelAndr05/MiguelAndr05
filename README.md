@@ -58,6 +58,6 @@ alt="Discord" width="85" style="margin: 0px 20px;">
 </a>
 </div>
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelAndr05&show_icons=true&locale=en&layout=compact&theme=radical" alt="stats" style="margin-top:15;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelAndr05&show_icons=true&theme=radical" alt="stats" style="margin-top:15;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelAndr05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="stats" style="margin:10px; width:40%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelAndr05&show_icons=true&theme=tokyonight" alt="stats" style="margin:10px;">
 </div>
