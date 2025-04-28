@@ -4,7 +4,7 @@
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=+Hi,+I'm+Miguel" alt="Typing SVG" style="font-size:20px;">
       </a> <br>
-     I am an 19-year-old Computer Science student currently <br> residing in Canada. I am deeply passionate about <Br> programming, learning, and assisting others.<br> Currently, I am pursuing my degree in Computer Science <br> at Georgian College in partnership with Lakehead University.
+     I am an 19-year-old Computer Science student currently <br> residing in Canada. I am deeply passionate about <Br> programming, learning, and assisting others.<br> Currently, I am pursuing my degree in Computer Science.
     </td>
     <td align="center">
       <img src="https://github.com/MiguelAndr05/MiguelAndr05/assets/100388017/fcafb30a-e2ed-4b7c-90e8-7dae6255d2f5" alt="Asta" width="200">
